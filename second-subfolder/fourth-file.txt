@@ -1,3 +1,0 @@
-Fourth file text
-
-This was modified in the feature 
